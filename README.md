@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1103552893.svg)](https://doi.org/10.5281/zenodo.17716561)
+
 # ontlr
 
 Biblioteca R para acesso a dados da ONTL (Observatório Nacional de Transporte e Logística).
